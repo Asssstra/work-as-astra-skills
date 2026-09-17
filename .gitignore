@@ -1,0 +1,14 @@
+# Local-only source reports, identity mappings, holdouts, and review notes
+/data-local/
+/.local/
+
+# Credentials and editor/runtime output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

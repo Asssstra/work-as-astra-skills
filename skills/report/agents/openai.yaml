@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report · 我的汇报"
+  short_description: "根据真实样本沉淀个人语气与判断，按对象和场景生成工作汇报"
+  default_prompt: "使用 $report，根据我提供的背景、对象和沟通目的，按已确认的个人表达习惯生成汇报。"
