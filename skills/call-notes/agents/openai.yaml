@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业电话会纪要"
+  short_description: "从陌生领域的电话会中筛出业务主线、关键条件与进展，形成可回查的纪要"
+  default_prompt: "使用 $call-notes，根据我提供的录音和背景形成可交付的会议纪要；把必要的入门解释与正文分开。"
