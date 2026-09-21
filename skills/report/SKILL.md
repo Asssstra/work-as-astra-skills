@@ -9,7 +9,7 @@ description: "按用户真实样本中沉淀的语气与判断习惯，撰写或
 
 ## 先判断任务
 
-- **生成或改写汇报**：先读 [profile.md](references/profile.md)，仅应用有依据且适用于本次情境的规则。给 boss 写日报时优先使用已确认的四段格式和项目层面的表达要求；会后 recap 按任务分工组织。需要具体语感或依据时读 [evidence.md](references/evidence.md)，只有缺少个人规则时才用 [scenarios.md](references/scenarios.md) 兜底。
+- **生成或改写汇报**：先读 [profile.md](references/profile.md)，仅应用有依据且适用于本次情境的规则。给 boss 写日报时优先使用已确认的四段格式和项目层面的表达要求；recap 按本次要求及 R-006 区分任务、执行关系和分工，保留需要确认与可先推进的范围。需要具体语感或依据时读 [evidence.md](references/evidence.md)，只有缺少个人规则时才用 [scenarios.md](references/scenarios.md) 兜底。
 - **整理过往材料、提炼规则、学习改稿**：读 [calibration.md](references/calibration.md) 和当前 profile，保持样本与推断分离。
 - 给 boss 写测算进展、框架卡点与数据协调的阶段沟通时，参考 profile 的 R-008；这是局部改稿经验，不套用日报的硬性四段。
 - 向熟悉同事索取项目说明所需的资料时，参考 profile 的 R-009，区分要了解的方向与已掌握、希望深化的信息；回复同事问题仍用 R-004。
